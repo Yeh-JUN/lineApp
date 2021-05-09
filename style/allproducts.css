@@ -1,0 +1,95 @@
+.allProducts{
+    background-color: #f7f8f9;
+    padding: 180px 0;
+}
+
+.allProducts h3{
+    font-size: 60px;
+    line-height: 1.27;
+    font-family: LINESeed,SFPro,Arial,Noto Sans JP,Noto Sans KR,sans-serif;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.productsContainer{
+    display: flex;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.productsList{
+    width: 300px;
+    height: 700px;
+}
+
+.productsList-ulcontainer
+{
+    margin: 0 0 0 40px;
+}
+
+.productsListitem{
+    display: block;
+    margin: 0 4px 16px 0;
+    font-size: 13px;
+    font-weight: 700;
+    color: rgba(30,30,30,.7);
+    background-color: transparent;
+    list-style: none;
+    padding: 8px 15px;
+    border-radius: 50px;
+    border: 1px solid rgba(34,34,34,.15);
+    font-family: SFPro,Arial,Noto Sans JP,Noto Sans KR,sans-serif;
+    
+}
+
+ul .active{
+    color: #fff;
+    background-color: #07b53b;
+    border: 1px solid #07b53b;
+}
+
+.productsMenu{
+    display: flex;
+    flex-wrap: wrap;
+    width: 890px;
+}
+.productsMenu-box{
+    background-color: #ffff;
+    margin: 0 40px 40px 0;
+    padding: 30px 35px;
+    border-radius: 4px;
+    width: 270px;
+    height: 340px;
+    box-shadow: 0 20px 20px 0 rgb(0 0 0 / 10%);
+}
+.bankstyle
+{
+    border: 1px solid rgba(0,0,0,.1);
+    border-radius: 16px;
+}
+
+.end-box{
+    margin-right: 0px;
+}
+
+.productsMenu-box img
+{
+    margin-bottom: 16px;
+}
+
+.productsMenu-box h4
+{
+    font-size: 22px;
+    font-weight: 700px;
+    line-height: 1.182;
+    margin-bottom: 8px;
+}
+
+.productsMenu-box p{
+    font-size: 14px;
+    line-height: 1.492;
+    color: #616161;
+    font-weight: 400;
+}
+

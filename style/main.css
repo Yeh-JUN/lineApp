@@ -1,0 +1,20 @@
+.mainTitleArea{
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.mainTitleArea h3{
+    font-family: LINESeed,sans-serif;
+    font-size: 70px;
+    line-height: 92.5px;
+    margin-bottom: 20px;
+}
+
+.mainTitleArea p{
+    font-family: LINESeed,sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 8px;
+}
+
